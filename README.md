@@ -1,9 +1,1 @@
-# ej_testapp
-# ej_testapp
-# ej_testapp
-# ej_testapp
-# ej_testapp
-# ej_testapp
-# ej_testapp
-# ej_testapp
-# ej_testapp
+# Repositorio demo de automação de testes
